@@ -6,3 +6,4 @@
 3rd[[:space:]]semester/pns/PNS.pdf filter=lfs diff=lfs merge=lfs -text
 5th[[:space:]]semester/CG/Notes/CG[[:space:]]Note[[:space:]]class[[:space:]](yugesh).pdf filter=lfs diff=lfs merge=lfs -text
 5th[[:space:]]semester/SSP/Assignment/all[[:space:]]assignments[[:space:]]solution[[:space:]]with[[:space:]]the[[:space:]]remaining[[:space:]]part.pdf filter=lfs diff=lfs merge=lfs -text
+2nd[[:space:]]semester/Ag/*.pdf filter=lfs diff=lfs merge=lfs -text
